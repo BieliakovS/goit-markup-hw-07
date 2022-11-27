@@ -1,6 +1,7 @@
 // utils styles
 @import './utils/variables';
 @import './utils/visualy-hidden';
+@import './utils/mixins';
 
 // base styles
 @import './base/reset';
@@ -10,7 +11,6 @@
 
 // components styles
 @import './components/container';
-@import './components/section';
 @import './components/header';
 @import './components/logo';
 @import './components/navigation';
@@ -23,5 +23,4 @@
 @import './components/clients';
 @import './components/footer';
 @import './components/modal';
-@import './components/filter-list';
-@import './components/our-projects';
+@import './components/projects-content';

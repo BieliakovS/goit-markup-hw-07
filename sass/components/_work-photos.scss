@@ -1,3 +1,7 @@
+.work-photos {
+    @include section;
+}
+
 .work-photos__item {
     --items: 3;
     position: relative;

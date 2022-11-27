@@ -115,11 +115,6 @@ body {
   margin-right: auto;
 }
 
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-
 .header {
   background-color: var(--color-main-3);
   border-bottom: 1px solid var(--color-header-border);
@@ -285,6 +280,8 @@ body {
 }
 
 .top-content {
+  padding-top: 94px;
+  padding-bottom: 94px;
   text-align: center;
   padding-top: 200px;
   padding-bottom: 200px;
@@ -337,6 +334,8 @@ body {
 }
 
 .our-skills {
+  padding-top: 94px;
+  padding-bottom: 94px;
   padding-bottom: 0;
 }
 
@@ -376,6 +375,11 @@ body {
   color: var(--color-main-2);
 }
 
+.work-photos {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .work-photos__item {
   --items: 3;
   position: relative;
@@ -409,6 +413,8 @@ body {
 }
 
 .our-team {
+  padding-top: 94px;
+  padding-bottom: 94px;
   background-color: var(--color-bg-additional);
 }
 
@@ -485,6 +491,11 @@ body {
           transition-duration: var(--trans-dur);
   -webkit-transition-timing-function: var(--cub-buz);
           transition-timing-function: var(--cub-buz);
+}
+
+.clients {
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .clients__list {
@@ -1014,6 +1025,11 @@ body {
 }
 .modal__form-btn-sub:hover, .modal__form-btn-sub:focus {
   scale: 1.03;
+}
+
+.projects-content {
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .filter-list {

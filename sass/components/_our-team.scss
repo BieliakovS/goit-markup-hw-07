@@ -1,4 +1,6 @@
 .our-team {
+    @include section;
+
     background-color: var(--color-bg-additional);
 }
 
